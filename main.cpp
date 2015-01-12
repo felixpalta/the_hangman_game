@@ -10,7 +10,7 @@ int main()
     using namespace std;
 
     const vector<string> WORDS = {"GUESS", "HANGMAN", "ZOMG", "VAPORIZER"};
-    const int MAX_GUESSES = 8;
+    const int MAX_GUESSES = 6;
 
     srand(time(0));
 
